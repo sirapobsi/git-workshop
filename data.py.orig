@@ -1,0 +1,24 @@
+# -*- coding: utf-8 -*-
+# @Author: palmsi
+# @Date:   2016-08-24 13:05:03
+# @Last Modified by:   palmsi
+<<<<<<< HEAD
+# @Last Modified time: 2016-08-24 13:21:53
+=======
+# @Last Modified time: 2016-08-24 13:20:38
+>>>>>>> refs/remotes/origin/master
+
+def main():
+
+    print("computer sci")
+<<<<<<< HEAD
+    print("2559")
+    print("chiangmai")
+
+=======
+    print("chiang mai university")
+>>>>>>> refs/remotes/origin/master
+
+
+if __name__ = '__main__':
+    main()
